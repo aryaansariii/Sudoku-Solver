@@ -1,4 +1,4 @@
-*Sudoku Solver*
+# Sudoku Solver
 
 A simple Sudoku solver implemented in c++.
 
